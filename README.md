@@ -1,5 +1,7 @@
 # Docker 基礎概念 101
 
+網頁好讀版：[https://chengweihu.com/docker-tutorial/](https://chengweihu.com/docker-tutorial/)
+
 > Docker 想解決的問題：改善傳統虛擬機器因為需要額外安裝作業系統（Guest OS），導致啟動慢、佔較大記憶體的問題
 >
 > Docker 要提供的解法：以應用程式為核心虛擬化，取代傳統需要 Guest OS 的虛擬化技術
